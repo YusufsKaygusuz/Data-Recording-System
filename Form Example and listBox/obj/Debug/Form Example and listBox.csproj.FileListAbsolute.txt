@@ -1,0 +1,21 @@
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\Form Example and listBox\Form Example and listBox\bin\Debug\Form Example and listBox.exe.config
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\Form Example and listBox\Form Example and listBox\bin\Debug\Form Example and listBox.exe
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\Form Example and listBox\Form Example and listBox\bin\Debug\Form Example and listBox.pdb
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form Example and listBox.csprojAssemblyReference.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form_Example_and_listBox.Form1.resources
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form_Example_and_listBox.Properties.Resources.resources
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form Example and listBox.csproj.GenerateResource.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form Example and listBox.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form Example and listBox.exe
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form Example and listBox.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Form Example and listBox\Form Example and listBox\bin\Debug\Form Example and listBox.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Form Example and listBox\Form Example and listBox\bin\Debug\Form Example and listBox.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Form Example and listBox\Form Example and listBox\bin\Debug\Form Example and listBox.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form Example and listBox.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form Example and listBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form_Example_and_listBox.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form_Example_and_listBox.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form Example and listBox.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form Example and listBox.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form Example and listBox.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Form Example and listBox\Form Example and listBox\obj\Debug\Form Example and listBox.pdb
